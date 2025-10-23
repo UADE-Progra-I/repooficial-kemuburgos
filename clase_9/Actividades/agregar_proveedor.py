@@ -24,6 +24,7 @@ P_EMAIL = r".+@.+\..+"
 
 
 def main():
+    print("Inicio")
     crear_proveedor(proveedores)
     print(proveedores)
 
